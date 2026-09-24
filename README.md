@@ -60,4 +60,4 @@ business-sales-analytics-risk-dashboard/
 git push
 ```
 
-Phir GitHub refresh karo. **README automatically repository ke front page par show hoga.** 🚀
+
